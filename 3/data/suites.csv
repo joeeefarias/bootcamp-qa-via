@@ -1,7 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Fri Sep 30 15:15:29 GMT 2022","Fri Sep 30 15:15:29 GMT 2022","490","","Testes de alteração de senha Casas Bahia","","","","[PUT] Deve retornar erro ao altera senha com confirmação divergente",""
-"passed","Fri Sep 30 15:15:26 GMT 2022","Fri Sep 30 15:15:29 GMT 2022","2299","","Testes de alteração de senha Casas Bahia","","","","[PUT] Deve Alterar senha com sucesso",""
-"passed","Fri Sep 30 15:15:33 GMT 2022","Fri Sep 30 15:15:34 GMT 2022","397","","Testes de alteração de senha Ponto","","","","[PUT] Deve retornar erro ao altera senha com confirmação divergente",""
-"passed","Fri Sep 30 15:15:29 GMT 2022","Fri Sep 30 15:15:31 GMT 2022","2329","","Testes de alteração de senha Extra","","","","[PUT] Deve Alterar senha com sucesso",""
-"passed","Fri Sep 30 15:15:31 GMT 2022","Fri Sep 30 15:15:32 GMT 2022","477","","Testes de alteração de senha Extra","","","","[PUT] Deve retornar erro ao altera senha com confirmação divergente",""
-"passed","Fri Sep 30 15:15:32 GMT 2022","Fri Sep 30 15:15:33 GMT 2022","1398","","Testes de alteração de senha Ponto","","","","[PUT] Deve Alterar senha com sucesso",""
