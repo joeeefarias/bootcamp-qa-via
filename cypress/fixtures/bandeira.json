@@ -1,0 +1,19 @@
+{
+    "cb": {
+        "email": "https://hlgmobile-b2c.casasbahia.com.br/token",
+        "cpfCnpj": "https://hlgmobile-b2c.casasbahia.com.br/token/cpfcnpj",
+        "pwdChange": "https://hlgmobile-b2c.casasbahia.com.br/conta/senha"
+    },
+
+    "ex": {
+        "email": "https://hlgmobile-b2c.extra.com.br/token",
+        "cpfCnpj": "https://hlgmobile-b2c.extra.com.br/token/cpfcnpj",
+        "pwdChange": "https://hlgmobile-b2c.extra.com.br/conta/senha"
+    },
+
+    "pf": {
+        "email": "https://hlgmobile-b2c.pontofrio.com.br/token",
+        "cpfCnpj": "https://hlgmobile-b2c.pontofrio.com.br/token/cpfcnpj",
+        "pwdChange": "https://hlgmobile-b2c.pontofrio.com.br/conta/senha"
+    }
+}

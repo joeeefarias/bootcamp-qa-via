@@ -1,0 +1,27 @@
+
+{
+    "cb":{
+    "content-type": "application/json",
+    "User-Agent": "ViaVarejo iOSApp",
+    "Referer": "https://ios.com.br",
+    "X-Device": "ios",
+    "X-Token" : "exp=1703181957~acl=/*~hmac=276f68b4330cd54d9f7cc3c118b5b8c61c38a177ca49b807a6f758efa866097e"
+    },
+
+    "ex":{
+        "content-type": "application/json",
+        "User-Agent": "ViaVarejo iOSApp",
+        "Referer": "https://ios.com.br",
+        "X-Device": "ios",
+        "X-Token" : "exp=1703182532~acl=/*~hmac=82ecaf9dbc95dc10f29103fb73f80e26f92ed15b44e4ee7c158cf25dd321302a"
+        },
+
+    "pf":{
+    "content-type": "application/json",
+    "User-Agent": "ViaVarejo iOSApp",
+    "Referer": "https://ios.com.br",
+    "X-Device": "ios",
+    "X-Token" : "exp=1703182261~acl=/*~hmac=7f64d8eb3b3b1da667ecfea2732d25c36d1038d4a5de523f6d8a3a64c011f16d"
+    }
+    
+}

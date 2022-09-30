@@ -1,0 +1,38 @@
+{
+    "cb":{
+        "ok":{
+            "senha": "123456r",
+            "novaSenha": "123456r",
+            "confirmacaoNovaSenha": "123456r"
+        },
+        "nok":{
+            "senha": "123456r",
+            "novaSenha": "123456r",
+            "confirmacaoNovaSenha": "123456rw"
+        }
+    },
+    "ex":{
+        "ok":{
+            "senha": "123456r",
+            "novaSenha": "123456r",
+            "confirmacaoNovaSenha": "123456r"
+        },
+        "nok":{
+            "senha": "123456r",
+            "novaSenha": "123456r",
+            "confirmacaoNovaSenha": "123456rw"
+        }
+    },
+    "pf":{
+        "ok":{
+            "senha": "123456r",
+            "novaSenha": "123456r",
+            "confirmacaoNovaSenha": "123456r"
+        },
+        "nok":{
+            "senha": "123456",
+            "novaSenha": "123456",
+            "confirmacaoNovaSenha": "1234567"
+        }
+    }
+}
